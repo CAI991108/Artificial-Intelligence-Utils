@@ -1,0 +1,82 @@
+Analogical Reasoning Evaluation Results
+========================================
+Question: complete:completely::professional:professionally
+Predicted: glickman, Correct: professionally
+Question: cincinnati:ohio::tacoma:washington
+Predicted: echlin, Correct: washington
+Question: honolulu:hawaii::irving:texas
+Predicted: carlisle, Correct: texas
+Question: playing:played::falling:fell
+Predicted: exert, Correct: fell
+Question: milwaukee:wisconsin::tulsa:oklahoma
+Predicted: pye, Correct: oklahoma
+Question: read:reading::say:saying
+Predicted: enacted, Correct: saying
+Question: lexington:kentucky::stockton:california
+Predicted: parched, Correct: california
+Question: egypt:egyptian::poland:polish
+Predicted: manufacture, Correct: polish
+Question: slow:slows::estimate:estimates
+Predicted: quincy, Correct: estimates
+Question: free:freely::usual:usually
+Predicted: comparability, Correct: usually
+Question: havana:cuba::athens:greece
+Predicted: bullying, Correct: greece
+Question: free:freely::rapid:rapidly
+Predicted: committments, Correct: rapidly
+Question: bakersfield:california::henderson:nevada
+Predicted: moore, Correct: nevada
+Question: good:better::weak:weaker
+Predicted: higher, Correct: weaker
+Question: long:longest::short:shortest
+Predicted: deepen, Correct: shortest
+Question: maputo:mozambique::nicosia:cyprus
+Predicted: mutton, Correct: cyprus
+Question: child:children::cloud:clouds
+Predicted: placement, Correct: clouds
+Question: reluctant:reluctantly::immediate:immediately
+Predicted: mcmurray, Correct: immediately
+Question: tough:tougher::high:higher
+Predicted: rpica, Correct: higher
+Question: go:goes::find:finds
+Predicted: matto, Correct: finds
+Question: boston:massachusetts::stockton:california
+Predicted: probes, Correct: california
+Question: henderson:nevada::phoenix:arizona
+Predicted: principle, Correct: arizona
+Question: free:freely::safe:safely
+Predicted: charterer, Correct: safely
+Question: greece:greek::iceland:icelandic
+Predicted: vboice, Correct: icelandic
+Question: wide:wider::heavy:heavier
+Predicted: harder, Correct: heavier
+Question: europe:euro::malaysia:ringgit
+Predicted: computerized, Correct: ringgit
+Question: tulsa:oklahoma::tacoma:washington
+Predicted: cheryl, Correct: washington
+Question: helsinki:finland::paris:france
+Predicted: louvre, Correct: france
+Question: malaysia:ringgit::korea:won
+Predicted: guilders, Correct: won
+Question: large:largest::bright:brightest
+Predicted: ordinaries, Correct: brightest
+Question: pittsburgh:pennsylvania::lubbock:texas
+Predicted: 13p, Correct: texas
+Question: sure:unsure::aware:unaware
+Predicted: unwilling, Correct: unaware
+Question: orlando:florida::indianapolis:indiana
+Predicted: shiments, Correct: indiana
+Question: cleveland:ohio::henderson:nevada
+Predicted: however, Correct: nevada
+Question: road:roads::car:cars
+Predicted: wsbc, Correct: cars
+Question: minneapolis:minnesota::tacoma:washington
+Predicted: lichtenberger, Correct: washington
+Question: knowing:knew::striking:struck
+Predicted: designating, Correct: struck
+Question: israel:israeli::austria:austrian
+Predicted: gnb, Correct: austrian
+Question: his:her::he:she
+Predicted: copyright, Correct: she
+
+For 39 analogy questions with all words presented in the vocabulary, 0 of them are correctly answered.

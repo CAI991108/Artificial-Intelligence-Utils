@@ -1,0 +1,76 @@
+Time usage: 0:00:01
+Epoch [1/20]
+Training:
+ 36%|███▋      | 112/307 [00:02<00:03, 51.40it/s]Iter:    100,  Train Loss:   1.2,  Train Acc: 57.03%,  Val Loss:   1.1,  Val Acc: 63.64%,  Time: 0:00:03 *
+ 68%|██████▊   | 209/307 [00:03<00:01, 55.09it/s]Iter:    200,  Train Loss:  0.53,  Train Acc: 80.47%,  Val Loss:   0.7,  Val Acc: 77.11%,  Time: 0:00:05 *
+100%|██████████| 307/307 [00:05<00:00, 57.63it/s]
+Iter:    300,  Train Loss:  0.71,  Train Acc: 78.12%,  Val Loss:  0.59,  Val Acc: 80.39%,  Time: 0:00:06 *
+Epoch [2/20]
+Training:
+ 34%|███▍      | 104/307 [00:01<00:03, 57.38it/s]Iter:    400,  Train Loss:  0.88,  Train Acc: 67.97%,  Val Loss:  0.94,  Val Acc: 72.18%,  Time: 0:00:08 
+ 68%|██████▊   | 208/307 [00:03<00:01, 57.43it/s]Iter:    500,  Train Loss:  0.42,  Train Acc: 85.16%,  Val Loss:  0.58,  Val Acc: 81.17%,  Time: 0:00:09 *
+100%|██████████| 307/307 [00:04<00:00, 66.17it/s]
+Iter:    600,  Train Loss:  0.31,  Train Acc: 90.62%,  Val Loss:  0.58,  Val Acc: 81.87%,  Time: 0:00:11 *
+Epoch [3/20]
+Training:
+ 33%|███▎      | 100/307 [00:01<00:02, 78.52it/s]Iter:    700,  Train Loss:  0.71,  Train Acc: 71.88%,  Val Loss:  0.65,  Val Acc: 80.07%,  Time: 0:00:12 
+ 69%|██████▊   | 211/307 [00:02<00:00, 97.54it/s] Iter:    800,  Train Loss:  0.31,  Train Acc: 86.72%,  Val Loss:  0.53,  Val Acc: 83.57%,  Time: 0:00:13 *
+100%|██████████| 307/307 [00:03<00:00, 94.63it/s] 
+Iter:    900,  Train Loss:  0.19,  Train Acc: 94.53%,  Val Loss:  0.58,  Val Acc: 82.37%,  Time: 0:00:14 
+Epoch [4/20]
+Training:
+ 29%|██▉       | 90/307 [00:01<00:03, 72.09it/s] Iter:   1000,  Train Loss:  0.74,  Train Acc: 76.56%,  Val Loss:  0.69,  Val Acc: 80.49%,  Time: 0:00:15 
+ 61%|██████    | 188/307 [00:02<00:02, 58.90it/s]Iter:   1100,  Train Loss:  0.19,  Train Acc: 96.09%,  Val Loss:  0.58,  Val Acc: 83.44%,  Time: 0:00:17 
+ 94%|█████████▍| 290/307 [00:03<00:00, 60.10it/s]Iter:   1200,  Train Loss:  0.11,  Train Acc: 96.88%,  Val Loss:   0.6,  Val Acc: 82.86%,  Time: 0:00:18 
+100%|██████████| 307/307 [00:04<00:00, 73.51it/s]
+Epoch [5/20]
+Training:
+ 27%|██▋       | 82/307 [00:01<00:03, 60.88it/s]Iter:   1300,  Train Loss:  0.75,  Train Acc: 76.56%,  Val Loss:  0.78,  Val Acc: 78.36%,  Time: 0:00:20 
+ 61%|██████    | 186/307 [00:02<00:02, 59.15it/s]Iter:   1400,  Train Loss:  0.13,  Train Acc: 95.31%,  Val Loss:  0.66,  Val Acc: 82.52%,  Time: 0:00:21 
+ 96%|█████████▌| 295/307 [00:03<00:00, 101.36it/s]Iter:   1500,  Train Loss: 0.062,  Train Acc: 100.00%,  Val Loss:  0.57,  Val Acc: 84.48%,  Time: 0:00:22 
+100%|██████████| 307/307 [00:03<00:00, 80.10it/s] 
+Epoch [6/20]
+Training:
+ 27%|██▋       | 84/307 [00:00<00:02, 102.51it/s]Iter:   1600,  Train Loss:  0.72,  Train Acc: 77.34%,  Val Loss:  0.75,  Val Acc: 80.99%,  Time: 0:00:23 
+ 59%|█████▉    | 181/307 [00:01<00:01, 101.14it/s]Iter:   1700,  Train Loss: 0.076,  Train Acc: 97.66%,  Val Loss:  0.62,  Val Acc: 84.15%,  Time: 0:00:24 
+ 86%|████████▋ | 265/307 [00:02<00:00, 109.71it/s]Iter:   1800,  Train Loss: 0.042,  Train Acc: 99.22%,  Val Loss:  0.62,  Val Acc: 84.55%,  Time: 0:00:25 
+No optimization for a long time, auto-stopping...
+Test Loss:   0.5,  Test Acc: 84.07%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+          财经     0.8465    0.8238    0.8350       261
+          房产     0.9008    0.8826    0.8916       247
+          股票     0.7788    0.6902    0.7318       255
+          教育     0.8531    0.9313    0.8905       262
+          科技     0.6205    0.7966    0.6976       236
+          社会     0.9184    0.8654    0.8911       260
+          时政     0.8734    0.8118    0.8415       255
+          体育     0.9154    0.9407    0.9279       253
+          游戏     0.8833    0.8123    0.8463       261
+          娱乐     0.8582    0.8489    0.8535       278
+
+    accuracy                         0.8407      2568
+   macro avg     0.8448    0.8403    0.8407      2568
+weighted avg     0.8466    0.8407    0.8419      2568
+
+Confusion Matrix...
+[[215   2  19   3  14   0   3   1   1   3]
+ [  4 218   6   4   7   3   1   3   1   0]
+ [ 26  10 176   3  25   1   7   1   4   2]
+ [  0   1   1 244   5   0   4   0   1   6]
+ [  5   1   7   5 188   2   7   0  18   3]
+ [  1   3   3  13   5 225   5   1   0   4]
+ [  0   2   6   5  14  10 207   3   0   8]
+ [  1   0   0   1   5   0   0 238   0   8]
+ [  1   0   5   2  32   2   2   0 212   5]
+ [  1   5   3   6   8   2   1  13   3 236]]
+Time usage: 0:00:00
+text:上海复地：德银维持评级 目标价1.2港元	2 	 label:股票
+text:恐慌杀跌致A股下挫  机构现分歧外资关注	2 	 label:财经
+text:章子怡赵薇蒋雯丽周迅姚星彤五女争“金鸡”	9 	 label:娱乐
+text:武汉大学一新生深夜报到 身带矿泉水方便面	3 	 label:教育
+text:马英九明日将宣布2012大选副手搭档人选	6 	 label:时政
+
+Total samples: 2568, Correct: 2159, Accuracy: 0.8407
+Error samples saved to ./THUCNews/data/error_samples.csv

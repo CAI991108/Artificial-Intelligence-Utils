@@ -1,0 +1,88 @@
+Time usage: 0:00:01
+Epoch [1/20]
+Training:
+ 34%|███▍      | 105/307 [00:03<00:09, 20.85it/s]Iter:    100,  Train Loss:   2.2,  Train Acc: 17.19%,  Val Loss:   2.3,  Val Acc: 12.90%,  Time: 0:00:03 *
+ 67%|██████▋   | 206/307 [00:06<00:04, 21.79it/s]Iter:    200,  Train Loss:   1.0,  Train Acc: 69.53%,  Val Loss:   1.1,  Val Acc: 64.43%,  Time: 0:00:06 *
+100%|██████████| 307/307 [00:09<00:00, 33.91it/s]
+Iter:    300,  Train Loss:  0.83,  Train Acc: 74.22%,  Val Loss:   0.8,  Val Acc: 73.52%,  Time: 0:00:09 *
+Epoch [2/20]
+Training:
+ 32%|███▏      | 98/307 [00:02<00:08, 25.62it/s]Iter:    400,  Train Loss:  0.94,  Train Acc: 72.66%,  Val Loss:   1.9,  Val Acc: 50.64%,  Time: 0:00:12 
+ 65%|██████▍   | 199/307 [00:05<00:04, 22.09it/s]Iter:    500,  Train Loss:  0.67,  Train Acc: 75.78%,  Val Loss:  0.66,  Val Acc: 78.91%,  Time: 0:00:15 *
+ 97%|█████████▋| 299/307 [00:08<00:00, 21.77it/s]Iter:    600,  Train Loss:  0.49,  Train Acc: 85.94%,  Val Loss:  0.64,  Val Acc: 79.05%,  Time: 0:00:18 *
+100%|██████████| 307/307 [00:08<00:00, 34.33it/s]
+Epoch [3/20]
+Training:
+ 30%|██▉       | 91/307 [00:02<00:08, 25.02it/s]Iter:    700,  Train Loss:  0.73,  Train Acc: 81.25%,  Val Loss:   1.1,  Val Acc: 68.84%,  Time: 0:00:21 
+ 63%|██████▎   | 192/307 [00:05<00:05, 20.94it/s]Iter:    800,  Train Loss:  0.53,  Train Acc: 84.38%,  Val Loss:  0.58,  Val Acc: 81.29%,  Time: 0:00:24 *
+ 95%|█████████▌| 292/307 [00:08<00:00, 21.94it/s]Iter:    900,  Train Loss:  0.42,  Train Acc: 86.72%,  Val Loss:  0.53,  Val Acc: 83.41%,  Time: 0:00:26 *
+100%|██████████| 307/307 [00:08<00:00, 34.16it/s]
+Epoch [4/20]
+Training:
+ 28%|██▊       | 87/307 [00:02<00:09, 23.48it/s]Iter:   1000,  Train Loss:  0.71,  Train Acc: 78.12%,  Val Loss:   1.1,  Val Acc: 70.52%,  Time: 0:00:29 
+ 60%|█████▉    | 184/307 [00:05<00:05, 23.79it/s]Iter:   1100,  Train Loss:  0.56,  Train Acc: 82.03%,  Val Loss:  0.58,  Val Acc: 81.94%,  Time: 0:00:32 
+ 93%|█████████▎| 285/307 [00:08<00:00, 22.76it/s]Iter:   1200,  Train Loss:   0.4,  Train Acc: 83.59%,  Val Loss:  0.53,  Val Acc: 83.50%,  Time: 0:00:35 *
+100%|██████████| 307/307 [00:08<00:00, 34.54it/s]
+Epoch [5/20]
+Training:
+ 26%|██▌       | 80/307 [00:02<00:08, 25.32it/s]Iter:   1300,  Train Loss:  0.81,  Train Acc: 74.22%,  Val Loss:   1.2,  Val Acc: 68.31%,  Time: 0:00:38 
+ 58%|█████▊    | 178/307 [00:05<00:06, 20.16it/s]Iter:   1400,  Train Loss:  0.39,  Train Acc: 85.16%,  Val Loss:   0.5,  Val Acc: 84.22%,  Time: 0:00:41 *
+ 91%|█████████ | 278/307 [00:08<00:01, 24.32it/s]Iter:   1500,  Train Loss:  0.55,  Train Acc: 80.47%,  Val Loss:  0.54,  Val Acc: 82.75%,  Time: 0:00:44 
+100%|██████████| 307/307 [00:08<00:00, 34.73it/s]
+Epoch [6/20]
+Training:
+ 23%|██▎       | 70/307 [00:02<00:09, 24.62it/s]Iter:   1600,  Train Loss:  0.86,  Train Acc: 73.44%,  Val Loss:   1.4,  Val Acc: 63.58%,  Time: 0:00:47 
+ 56%|█████▌    | 172/307 [00:04<00:05, 25.29it/s]Iter:   1700,  Train Loss:  0.37,  Train Acc: 85.16%,  Val Loss:   0.5,  Val Acc: 84.47%,  Time: 0:00:50 
+ 88%|████████▊ | 269/307 [00:07<00:01, 21.59it/s]Iter:   1800,  Train Loss:  0.21,  Train Acc: 95.31%,  Val Loss:  0.54,  Val Acc: 83.42%,  Time: 0:00:52 
+100%|██████████| 307/307 [00:08<00:00, 35.55it/s]
+Epoch [7/20]
+Training:
+ 21%|██▏       | 66/307 [00:02<00:10, 23.83it/s]Iter:   1900,  Train Loss:  0.54,  Train Acc: 82.03%,  Val Loss:   1.1,  Val Acc: 69.60%,  Time: 0:00:55 
+ 53%|█████▎    | 163/307 [00:04<00:05, 25.69it/s]Iter:   2000,  Train Loss:  0.38,  Train Acc: 85.94%,  Val Loss:  0.51,  Val Acc: 83.80%,  Time: 0:00:58 
+ 86%|████████▌ | 263/307 [00:07<00:01, 25.77it/s]Iter:   2100,  Train Loss:  0.38,  Train Acc: 86.72%,  Val Loss:  0.52,  Val Acc: 83.94%,  Time: 0:01:01 
+100%|██████████| 307/307 [00:08<00:00, 35.62it/s]
+Epoch [8/20]
+Training:
+ 18%|█▊        | 55/307 [00:01<00:11, 21.63it/s]Iter:   2200,  Train Loss:  0.73,  Train Acc: 75.78%,  Val Loss:   1.2,  Val Acc: 69.07%,  Time: 0:01:04 
+ 51%|█████▏    | 158/307 [00:04<00:06, 24.40it/s]Iter:   2300,  Train Loss:   0.3,  Train Acc: 92.19%,  Val Loss:  0.52,  Val Acc: 84.32%,  Time: 0:01:06 
+ 82%|████████▏ | 251/307 [00:07<00:01, 34.81it/s]Iter:   2400,  Train Loss:  0.19,  Train Acc: 95.31%,  Val Loss:  0.52,  Val Acc: 83.80%,  Time: 0:01:09 
+No optimization for a long time, auto-stopping...
+
+Test Loss:  0.48,  Test Acc: 83.53%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+          财经     0.7825    0.8544    0.8168       261
+          房产     0.8151    0.8745    0.8438       247
+          股票     0.8490    0.6392    0.7293       255
+          教育     0.8951    0.9122    0.9036       262
+          科技     0.7160    0.7585    0.7366       236
+          社会     0.8227    0.8923    0.8561       260
+          时政     0.7729    0.8941    0.8291       255
+          体育     0.9398    0.9249    0.9323       253
+          游戏     0.8913    0.7854    0.8350       261
+          娱乐     0.8933    0.8129    0.8512       278
+
+    accuracy                         0.8353      2568
+   macro avg     0.8378    0.8349    0.8334      2568
+weighted avg     0.8393    0.8353    0.8344      2568
+
+Confusion Matrix...
+[[223   8  12   0   8   5   2   0   0   3]
+ [ 11 216   4   1   3   5   4   2   0   1]
+ [ 38  14 163   2  19   2  11   0   5   1]
+ [  2   5   0 239   4   1   5   2   0   4]
+ [  5   3   7   7 179   9   9   0  16   1]
+ [  1   5   0   9   0 232  11   2   0   0]
+ [  1   3   4   4   3   9 228   1   0   2]
+ [  0   0   0   0   3   1   9 234   0   6]
+ [  2   1   1   1  27   8   7   0 205   9]
+ [  2  10   1   4   4  10   9   8   4 226]]
+Time usage: 0:00:00
+text:男子酒吧消费后认为价格过高 自制液体炸弹报复	5 	 label:社会
+text:时评：对川大破格招收奇偏怪才的喝彩与提醒	3 	 label:教育
+text:商住价值倒挂 高端综合体项目成购房新热点	1 	 label:房产
+text:侯佩岑曝择偶标准 求鲁豫做“红娘”介绍男友	9 	 label:娱乐
+text:评论：范冰冰周迅李冰冰的2009年“谍战”	9 	 label:科技
+Total samples: 2568, Correct: 2145, Accuracy: 0.8353
+Error samples saved to ./THUCNews/data/error_samples.csv

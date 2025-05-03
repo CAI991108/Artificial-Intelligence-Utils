@@ -1,0 +1,304 @@
+SimLex-999 Evaluation Results
+========================================
+
+Word pair: proof and fact
+Standard similarity: 7.30, Calculated: 5.8620
+
+Word pair: night and day
+Standard similarity: 1.88, Calculated: 5.8419
+
+Word pair: strange and odd
+Standard similarity: 9.02, Calculated: 5.3941
+
+Word pair: gun and fur
+Standard similarity: 0.30, Calculated: 5.4259
+
+Word pair: intelligence and logic
+Standard similarity: 6.50, Calculated: 5.6765
+
+Word pair: motor and engine
+Standard similarity: 8.65, Calculated: 6.5294
+
+Word pair: metal and aluminum
+Standard similarity: 7.25, Calculated: 5.8942
+
+Word pair: winter and summer
+Standard similarity: 2.38, Calculated: 6.2575
+
+Word pair: gun and dawn
+Standard similarity: 1.18, Calculated: 4.4034
+
+Word pair: sly and tough
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: beast and animal
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: stomach and vein
+Standard similarity: 2.35, Calculated: 5.2200
+
+Word pair: understand and forgive
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: fact and insight
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: dreary and dull
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: newspaper and information
+Standard similarity: 5.65, Calculated: 5.1955
+
+Word pair: men and fraternity
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: nice and generous
+Standard similarity: 5.00, Calculated: 4.7797
+
+Word pair: apparent and obvious
+Standard similarity: 8.47, Calculated: 6.3524
+
+Word pair: laden and heavy
+Standard similarity: 5.90, Calculated: 6.4269
+
+Word pair: bar and jail
+Standard similarity: 1.90, Calculated: 4.7193
+
+Word pair: sweater and jacket
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: polyester and cotton
+Standard similarity: 5.63, Calculated: 4.3235
+
+Word pair: book and essay
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: narrow and broad
+Standard similarity: 1.18, Calculated: 5.2488
+
+Word pair: happiness and peace
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: glass and crystal
+Standard similarity: 6.27, Calculated: 5.1968
+
+Word pair: liquor and century
+Standard similarity: 0.40, Calculated: 5.4974
+
+Word pair: muscle and tongue
+Standard similarity: 5.00, Calculated: 5.8571
+
+Word pair: choice and vein
+Standard similarity: 0.98, Calculated: 5.2985
+
+Word pair: arrange and require
+Standard similarity: 0.98, Calculated: 6.0524
+
+Word pair: endurance and strength
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: dictionary and definition
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: driver and pilot
+Standard similarity: 6.28, Calculated: 5.6332
+
+Word pair: adult and guardian
+Standard similarity: 6.90, Calculated: 5.7011
+
+Word pair: mob and crowd
+Standard similarity: 7.85, Calculated: 4.9531
+
+Word pair: multiply and add
+Standard similarity: 2.70, Calculated: 5.5443
+
+Word pair: conclude and decide
+Standard similarity: 7.75, Calculated: 6.7288
+
+Word pair: happy and glad
+Standard similarity: 9.17, Calculated: 5.2708
+
+Word pair: go and come
+Standard similarity: 2.42, Calculated: 7.8571
+
+Word pair: gather and meet
+Standard similarity: 7.30, Calculated: 6.6987
+
+Word pair: way and manner
+Standard similarity: 7.62, Calculated: 6.6552
+
+Word pair: winner and presence
+Standard similarity: 1.08, Calculated: 5.3933
+
+Word pair: give and know
+Standard similarity: 0.88, Calculated: 6.8956
+
+Word pair: wine and liquor
+Standard similarity: 7.85, Calculated: 6.0648
+
+Word pair: leave and appear
+Standard similarity: 0.97, Calculated: 6.0443
+
+Word pair: hand and thumb
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: father and parent
+Standard similarity: 7.07, Calculated: 5.4752
+
+Word pair: occur and happen
+Standard similarity: 9.32, Calculated: 6.7018
+
+Word pair: pain and harm
+Standard similarity: 5.38, Calculated: 5.9417
+
+Word pair: bring and complain
+Standard similarity: 0.98, Calculated: 5.4735
+
+Word pair: violent and angry
+Standard similarity: 6.98, Calculated: 5.2251
+
+Word pair: apple and candy
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: recent and new
+Standard similarity: 7.05, Calculated: 6.2118
+
+Word pair: august and month
+Standard similarity: 5.53, Calculated: 6.0743
+
+Word pair: give and deny
+Standard similarity: 1.43, Calculated: 5.7738
+
+Word pair: pact and agreement
+Standard similarity: 9.02, Calculated: 7.9646
+
+Word pair: article and journal
+Standard similarity: 6.18, Calculated: 5.1635
+
+Word pair: strength and might
+Standard similarity: 7.07, Calculated: 4.6929
+
+Word pair: make and earn
+Standard similarity: 7.62, Calculated: 6.2499
+
+Word pair: impatient and anxious
+Standard similarity: 6.03, Calculated: 5.7028
+
+Word pair: hole and wife
+Standard similarity: 0.68, Calculated: 5.5726
+
+Word pair: arm and knee
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: brow and eye
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: actress and actor
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: hill and cliff
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: tiny and huge
+Standard similarity: 0.60, Calculated: 6.3760
+
+Word pair: bathroom and kitchen
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: boat and car
+Standard similarity: 2.37, Calculated: 3.6744
+
+Word pair: take and deliver
+Standard similarity: 4.37, Calculated: 5.6270
+
+Word pair: pipe and cigar
+Standard similarity: 6.03, Calculated: 5.5469
+
+Word pair: bed and couch
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: borrow and sell
+Standard similarity: 1.73, Calculated: 6.3366
+
+Word pair: begin and quit
+Standard similarity: 1.28, Calculated: 5.4607
+
+Word pair: physician and doctor
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: accident and catastrophe
+Standard similarity: 5.90, Calculated: 5.1809
+
+Word pair: winter and season
+Standard similarity: 6.27, Calculated: 5.6358
+
+Word pair: jail and choice
+Standard similarity: 1.08, Calculated: 6.3223
+
+Word pair: bizarre and strange
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: strong and proud
+Standard similarity: 3.17, Calculated: 5.2358
+
+Word pair: neck and spine
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: bed and blanket
+Standard similarity: 3.02, Calculated: 5.1437
+
+Word pair: carry and bring
+Standard similarity: 5.80, Calculated: 7.5981
+
+Word pair: crime and theft
+Standard similarity: 7.53, Calculated: 5.1923
+
+Word pair: polite and proper
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: cherish and keep
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: add and build
+Standard similarity: 4.92, Calculated: 5.7237
+
+Word pair: take and leave
+Standard similarity: 2.47, Calculated: 7.0995
+
+Word pair: dumb and rare
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: determine and predict
+Standard similarity: 5.80, Calculated: 6.7443
+
+Word pair: try and think
+Standard similarity: 2.62, Calculated: 5.8328
+
+Word pair: moon and planet
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: bone and teeth
+Standard similarity: 4.17, Calculated: 5.8704
+
+Word pair: compare and analyze
+Standard similarity: 8.10, Calculated: 5.4416
+
+Word pair: sun and sky
+Standard similarity: 2.27, Calculated: 5.5875
+
+Word pair: death and burial
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: gut and nerve
+At least one of the words is Out-of-Vocabulary.
+
+Word pair: oak and maple
+Standard similarity: 6.03, Calculated: 4.8964
+
+Word pair: ball and basket
+Standard similarity: 1.67, Calculated: 6.2667
+
+Word pair: dog and horse
+Standard similarity: 2.38, Calculated: 5.6344
+
+The spearman correlation between the standard and calculated similarity is: 0.0954

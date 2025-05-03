@@ -1,0 +1,82 @@
+Analogical Reasoning Evaluation Results
+========================================
+Question: complete:completely::professional:professionally
+Predicted: grown, Correct: professionally
+Question: cincinnati:ohio::tacoma:washington
+Predicted: jem, Correct: washington
+Question: honolulu:hawaii::irving:texas
+Predicted: biologicals, Correct: texas
+Question: playing:played::falling:fell
+Predicted: carsons, Correct: fell
+Question: milwaukee:wisconsin::tulsa:oklahoma
+Predicted: dhaka, Correct: oklahoma
+Question: read:reading::say:saying
+Predicted: multifood, Correct: saying
+Question: lexington:kentucky::stockton:california
+Predicted: loius, Correct: california
+Question: egypt:egyptian::poland:polish
+Predicted: ccfp, Correct: polish
+Question: slow:slows::estimate:estimates
+Predicted: forecast, Correct: estimates
+Question: free:freely::usual:usually
+Predicted: occurs, Correct: usually
+Question: havana:cuba::athens:greece
+Predicted: mellon, Correct: greece
+Question: free:freely::rapid:rapidly
+Predicted: shortfull, Correct: rapidly
+Question: bakersfield:california::henderson:nevada
+Predicted: crandell, Correct: nevada
+Question: good:better::weak:weaker
+Predicted: pressures, Correct: weaker
+Question: long:longest::short:shortest
+Predicted: 218, Correct: shortest
+Question: maputo:mozambique::nicosia:cyprus
+Predicted: marvin, Correct: cyprus
+Question: child:children::cloud:clouds
+Predicted: comes, Correct: clouds
+Question: reluctant:reluctantly::immediate:immediately
+Predicted: therby, Correct: immediately
+Question: tough:tougher::high:higher
+Predicted: absorbed, Correct: higher
+Question: go:goes::find:finds
+Predicted: tactical, Correct: finds
+Question: boston:massachusetts::stockton:california
+Predicted: miraculous, Correct: california
+Question: henderson:nevada::phoenix:arizona
+Predicted: geothermal, Correct: arizona
+Question: free:freely::safe:safely
+Predicted: everyone, Correct: safely
+Question: greece:greek::iceland:icelandic
+Predicted: clemente, Correct: icelandic
+Question: wide:wider::heavy:heavier
+Predicted: coffees, Correct: heavier
+Question: europe:euro::malaysia:ringgit
+Predicted: carcasses, Correct: ringgit
+Question: tulsa:oklahoma::tacoma:washington
+Predicted: submits, Correct: washington
+Question: helsinki:finland::paris:france
+Predicted: gigantic, Correct: france
+Question: malaysia:ringgit::korea:won
+Predicted: equivalents, Correct: won
+Question: large:largest::bright:brightest
+Predicted: exchangers, Correct: brightest
+Question: pittsburgh:pennsylvania::lubbock:texas
+Predicted: examiner, Correct: texas
+Question: sure:unsure::aware:unaware
+Predicted: auctioned, Correct: unaware
+Question: orlando:florida::indianapolis:indiana
+Predicted: utiles, Correct: indiana
+Question: cleveland:ohio::henderson:nevada
+Predicted: teccor, Correct: nevada
+Question: road:roads::car:cars
+Predicted: westcoast, Correct: cars
+Question: minneapolis:minnesota::tacoma:washington
+Predicted: allentown, Correct: washington
+Question: knowing:knew::striking:struck
+Predicted: borne, Correct: struck
+Question: israel:israeli::austria:austrian
+Predicted: colder, Correct: austrian
+Question: his:her::he:she
+Predicted: cpb, Correct: she
+
+For 39 analogy questions with all words presented in the vocabulary, 0 of them are correctly answered.

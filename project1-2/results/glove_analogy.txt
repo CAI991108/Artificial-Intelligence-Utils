@@ -1,0 +1,82 @@
+Analogical Reasoning Evaluation Results
+========================================
+Question: complete:completely::professional:professionally
+Predicted: activating, Correct: professionally
+Question: cincinnati:ohio::tacoma:washington
+Predicted: ipswich, Correct: washington
+Question: honolulu:hawaii::irving:texas
+Predicted: alarming, Correct: texas
+Question: playing:played::falling:fell
+Predicted: rout, Correct: fell
+Question: milwaukee:wisconsin::tulsa:oklahoma
+Predicted: locally, Correct: oklahoma
+Question: read:reading::say:saying
+Predicted: transwestern, Correct: saying
+Question: lexington:kentucky::stockton:california
+Predicted: sulzer, Correct: california
+Question: egypt:egyptian::poland:polish
+Predicted: fondiaria, Correct: polish
+Question: slow:slows::estimate:estimates
+Predicted: asbi, Correct: estimates
+Question: free:freely::usual:usually
+Predicted: gaosline, Correct: usually
+Question: havana:cuba::athens:greece
+Predicted: rebutting, Correct: greece
+Question: free:freely::rapid:rapidly
+Predicted: addition, Correct: rapidly
+Question: bakersfield:california::henderson:nevada
+Predicted: 390p, Correct: nevada
+Question: good:better::weak:weaker
+Predicted: shrink, Correct: weaker
+Question: long:longest::short:shortest
+Predicted: arthur, Correct: shortest
+Question: maputo:mozambique::nicosia:cyprus
+Predicted: stamp, Correct: cyprus
+Question: child:children::cloud:clouds
+Predicted: pancho, Correct: clouds
+Question: reluctant:reluctantly::immediate:immediately
+Predicted: september, Correct: immediately
+Question: tough:tougher::high:higher
+Predicted: update, Correct: higher
+Question: go:goes::find:finds
+Predicted: tlci, Correct: finds
+Question: boston:massachusetts::stockton:california
+Predicted: pork, Correct: california
+Question: henderson:nevada::phoenix:arizona
+Predicted: 651, Correct: arizona
+Question: free:freely::safe:safely
+Predicted: underutilised, Correct: safely
+Question: greece:greek::iceland:icelandic
+Predicted: blocked, Correct: icelandic
+Question: wide:wider::heavy:heavier
+Predicted: glutted, Correct: heavier
+Question: europe:euro::malaysia:ringgit
+Predicted: reviewed, Correct: ringgit
+Question: tulsa:oklahoma::tacoma:washington
+Predicted: elmd, Correct: washington
+Question: helsinki:finland::paris:france
+Predicted: planbureau, Correct: france
+Question: malaysia:ringgit::korea:won
+Predicted: dismissing, Correct: won
+Question: large:largest::bright:brightest
+Predicted: pinpoint, Correct: brightest
+Question: pittsburgh:pennsylvania::lubbock:texas
+Predicted: cargo, Correct: texas
+Question: sure:unsure::aware:unaware
+Predicted: shearing, Correct: unaware
+Question: orlando:florida::indianapolis:indiana
+Predicted: restraint, Correct: indiana
+Question: cleveland:ohio::henderson:nevada
+Predicted: pios, Correct: nevada
+Question: road:roads::car:cars
+Predicted: idbx, Correct: cars
+Question: minneapolis:minnesota::tacoma:washington
+Predicted: limited, Correct: washington
+Question: knowing:knew::striking:struck
+Predicted: quincy, Correct: struck
+Question: israel:israeli::austria:austrian
+Predicted: investmento, Correct: austrian
+Question: his:her::he:she
+Predicted: metallverken, Correct: she
+
+For 39 analogy questions with all words presented in the vocabulary, 0 of them are correctly answered.

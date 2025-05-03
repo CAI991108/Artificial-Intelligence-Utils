@@ -1,0 +1,345 @@
+
+Query: july
+The similarity of june is 0.7033.
+The similarity of october is 0.6754.
+The similarity of april is 0.6515.
+The similarity of march is 0.6311.
+The similarity of september is 0.5701.
+
+Query: reliable
+The similarity of brink is 0.5213.
+The similarity of life is 0.5081.
+The similarity of cleanup is 0.4951.
+The similarity of replacement is 0.4825.
+The similarity of quantify is 0.4789.
+
+Query: play
+The similarity of obstacle is 0.5406.
+The similarity of diversify is 0.4938.
+The similarity of realistic is 0.4936.
+The similarity of slim is 0.4759.
+The similarity of rational is 0.4748.
+
+Query: willing
+The similarity of ready is 0.6079.
+The similarity of prepared is 0.6044.
+The similarity of unlikely is 0.5991.
+The similarity of likely is 0.5853.
+The similarity of able is 0.5801.
+
+Query: good
+The similarity of satisfactory is 0.5757.
+The similarity of strong is 0.5566.
+The similarity of encouraging is 0.5424.
+The similarity of 88 is 0.5266.
+The similarity of cautious is 0.5199.
+
+Query: very
+The similarity of wrong is 0.5690.
+The similarity of positive is 0.5597.
+The similarity of pretty is 0.5571.
+The similarity of winds is 0.5435.
+The similarity of so is 0.5341.
+
+Query: patient
+The similarity of engaging is 0.5572.
+The similarity of describes is 0.5342.
+The similarity of williamson is 0.4922.
+The similarity of pooling is 0.4812.
+The similarity of sponsoring is 0.4711.
+
+Query: concerned
+The similarity of sceptical is 0.5458.
+The similarity of unhappy is 0.5424.
+The similarity of convinced is 0.5381.
+The similarity of categorised is 0.5046.
+The similarity of pleased is 0.4873.
+
+Query: important
+The similarity of too is 0.5570.
+The similarity of resold is 0.5367.
+The similarity of deregulatory is 0.5109.
+The similarity of repugnant is 0.5107.
+The similarity of reassuring is 0.5062.
+
+Query: powerful
+The similarity of fast is 0.5301.
+The similarity of uproar is 0.5129.
+The similarity of quay is 0.5115.
+The similarity of cooperatives is 0.5032.
+The similarity of principles is 0.5015.
+
+Query: quickly
+The similarity of soon is 0.5526.
+The similarity of known is 0.5396.
+The similarity of decisive is 0.5376.
+The similarity of suggestion is 0.5151.
+The similarity of torpedoed is 0.4903.
+
+Query: generally
+The similarity of incalculable is 0.5643.
+The similarity of starft is 0.5517.
+The similarity of fragmented is 0.5452.
+The similarity of forecasts is 0.5172.
+The similarity of nonetheless is 0.5110.
+
+Query: gradually
+The similarity of stifle is 0.5265.
+The similarity of appreciating is 0.5186.
+The similarity of steadily is 0.5073.
+The similarity of censure is 0.4933.
+The similarity of expenditure is 0.4906.
+
+Query: happy
+The similarity of really is 0.6069.
+The similarity of pleased is 0.5774.
+The similarity of absolutely is 0.5683.
+The similarity of unable is 0.5582.
+The similarity of talked is 0.5451.
+
+Query: able
+The similarity of unwilling is 0.6572.
+The similarity of unable is 0.6534.
+The similarity of likely is 0.6070.
+The similarity of obliged is 0.5945.
+The similarity of required is 0.5812.
+
+Query: close
+The similarity of put is 0.5123.
+The similarity of ostrander is 0.4947.
+The similarity of referred is 0.4784.
+The similarity of start is 0.4715.
+The similarity of begin is 0.4587.
+
+Query: near
+The similarity of apc is 0.5660.
+The similarity of macomb is 0.5391.
+The similarity of pressures is 0.5215.
+The similarity of sentiment is 0.5092.
+The similarity of disturbances is 0.5046.
+
+Query: saturday
+The similarity of tokyo is 0.5395.
+The similarity of monday is 0.5330.
+The similarity of reporters is 0.5319.
+The similarity of wednesday is 0.5269.
+The similarity of thursday is 0.5116.
+
+Query: friend
+The similarity of schlesigner is 0.5065.
+The similarity of housecleaning is 0.4861.
+The similarity of peter is 0.4786.
+The similarity of daniel is 0.4640.
+The similarity of peistner is 0.4567.
+
+Query: company
+The similarity of columns is 0.4756.
+The similarity of government is 0.4749.
+The similarity of ouko is 0.4696.
+The similarity of hagerstown is 0.4693.
+The similarity of minero is 0.4564.
+
+Query: road
+The similarity of incredible is 0.4995.
+The similarity of forum is 0.4858.
+The similarity of disasterous is 0.4850.
+The similarity of lock is 0.4687.
+The similarity of converter is 0.4643.
+
+Query: plane
+The similarity of ventana is 0.5400.
+The similarity of library is 0.4886.
+The similarity of deaf is 0.4871.
+The similarity of overturn is 0.4793.
+The similarity of manfredonia is 0.4725.
+
+Query: war
+The similarity of uneventfully is 0.5132.
+The similarity of ties is 0.5051.
+The similarity of contend is 0.5008.
+The similarity of mobilization is 0.4905.
+The similarity of sebaana is 0.4812.
+
+Query: politics
+The similarity of profile is 0.5474.
+The similarity of can is 0.5311.
+The similarity of hunch is 0.5035.
+The similarity of optimize is 0.4959.
+The similarity of diphenyl is 0.4723.
+
+Query: building
+The similarity of distorts is 0.4994.
+The similarity of diversifying is 0.4682.
+The similarity of preconstruction is 0.4651.
+The similarity of canton is 0.4617.
+The similarity of modification is 0.4577.
+
+Query: student
+The similarity of ratios is 0.5272.
+The similarity of pets is 0.4929.
+The similarity of term is 0.4888.
+The similarity of aon is 0.4792.
+The similarity of outfox is 0.4784.
+
+Query: university
+The similarity of neslemur is 0.4757.
+The similarity of puch is 0.4716.
+The similarity of pennsylvania is 0.4525.
+The similarity of maslen is 0.4470.
+The similarity of derivatively is 0.4464.
+
+Query: realm
+
+Query: china
+The similarity of borman is 0.5729.
+The similarity of korea is 0.5274.
+The similarity of soy is 0.5189.
+The similarity of senegalese is 0.5097.
+The similarity of far is 0.5089.
+
+Query: experience
+The similarity of liftings is 0.5258.
+The similarity of simplest is 0.5064.
+The similarity of kassenobligation is 0.5059.
+The similarity of flexibility is 0.4860.
+The similarity of rleated is 0.4635.
+
+Query: police
+The similarity of defendants is 0.5121.
+The similarity of aggravate is 0.5120.
+The similarity of ratsimandresy is 0.4999.
+The similarity of many is 0.4827.
+The similarity of elaboration is 0.4797.
+
+Query: give
+The similarity of provide is 0.5502.
+The similarity of receive is 0.5160.
+The similarity of reveal is 0.5068.
+The similarity of identify is 0.4985.
+The similarity of allow is 0.4967.
+
+Query: create
+The similarity of make is 0.5475.
+The similarity of address is 0.5276.
+The similarity of constitute is 0.5201.
+The similarity of prevent is 0.5175.
+The similarity of tackle is 0.5106.
+
+Query: tell
+The similarity of afford is 0.5510.
+The similarity of somthing is 0.5389.
+The similarity of resist is 0.5369.
+The similarity of seem is 0.5271.
+The similarity of entertain is 0.5193.
+
+Query: become
+The similarity of find is 0.5384.
+The similarity of crucially is 0.4978.
+The similarity of recieve is 0.4923.
+The similarity of uproot is 0.4832.
+The similarity of iranan is 0.4778.
+
+Query: lack
+The similarity of formation is 0.5650.
+The similarity of course is 0.5451.
+The similarity of substantial is 0.5280.
+The similarity of volatility is 0.5210.
+The similarity of propsects is 0.5097.
+
+Query: win
+The similarity of deter is 0.5134.
+The similarity of conglomerate is 0.5053.
+The similarity of preventive is 0.4947.
+The similarity of see is 0.4885.
+The similarity of define is 0.4829.
+
+Query: help
+The similarity of intervening is 0.5831.
+The similarity of erect is 0.5554.
+The similarity of reduce is 0.5146.
+The similarity of stop is 0.5061.
+The similarity of assistance is 0.5030.
+
+Query: gain
+The similarity of charge is 0.6295.
+The similarity of gains is 0.6053.
+The similarity of flick is 0.5530.
+The similarity of credits is 0.5288.
+The similarity of loss is 0.5105.
+
+Query: get
+The similarity of attract is 0.5814.
+The similarity of look is 0.5452.
+The similarity of afford is 0.5251.
+The similarity of withhold is 0.5182.
+The similarity of your is 0.5099.
+
+Query: take
+The similarity of taking is 0.5329.
+The similarity of deter is 0.5257.
+The similarity of tugs is 0.5011.
+The similarity of frictions is 0.5007.
+The similarity of terminates is 0.4923.
+
+Query: use
+The similarity of reneging is 0.4741.
+The similarity of discomfort is 0.4665.
+The similarity of alfalfa is 0.4491.
+The similarity of contender is 0.4477.
+The similarity of exports is 0.4460.
+
+Query: set
+The similarity of bet is 0.5193.
+The similarity of treat is 0.4954.
+The similarity of instituted is 0.4876.
+The similarity of earmarked is 0.4866.
+The similarity of introduced is 0.4785.
+
+Query: find
+The similarity of recognize is 0.5582.
+The similarity of become is 0.5384.
+The similarity of feeble is 0.5005.
+The similarity of distract is 0.4990.
+The similarity of efficient is 0.4961.
+
+Query: increase
+The similarity of drop is 0.6334.
+The similarity of jump is 0.6248.
+The similarity of decrease is 0.6058.
+The similarity of decline is 0.5708.
+The similarity of rise is 0.5505.
+
+Query: difficult
+The similarity of favourable is 0.6048.
+The similarity of realistic is 0.5499.
+The similarity of responsive is 0.5335.
+The similarity of leaning is 0.5222.
+The similarity of constructive is 0.5195.
+
+Query: go
+The similarity of come is 0.6002.
+The similarity of back is 0.5009.
+The similarity of accomplish is 0.4993.
+The similarity of pick is 0.4895.
+The similarity of compete is 0.4872.
+
+Query: man
+The similarity of bpsiq is 0.5259.
+The similarity of conade is 0.4950.
+The similarity of 2130 is 0.4861.
+The similarity of nominee is 0.4832.
+The similarity of meguerditch is 0.4501.
+
+Query: ten
+The similarity of four is 0.6612.
+The similarity of two is 0.6032.
+The similarity of eight is 0.5999.
+The similarity of three is 0.5973.
+The similarity of six is 0.5917.
+
+Query: year
+The similarity of week is 0.5969.
+The similarity of month is 0.5594.
+The similarity of dissent is 0.5250.
+The similarity of yr is 0.4926.
+The similarity of peaks is 0.4696.

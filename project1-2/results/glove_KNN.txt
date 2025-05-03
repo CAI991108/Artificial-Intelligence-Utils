@@ -1,0 +1,345 @@
+
+Query: july
+The similarity of met is 0.4997.
+The similarity of 850 is 0.4732.
+The similarity of synonymous is 0.4514.
+The similarity of inudstrial is 0.4475.
+The similarity of muda is 0.4459.
+
+Query: reliable
+The similarity of dbms is 0.4965.
+The similarity of represent is 0.4876.
+The similarity of 050 is 0.4851.
+The similarity of tenderness is 0.4584.
+The similarity of emirate is 0.4553.
+
+Query: play
+The similarity of nationalism is 0.4837.
+The similarity of moorhead is 0.4408.
+The similarity of purchasing is 0.4296.
+The similarity of schlesigner is 0.4084.
+The similarity of cec is 0.4047.
+
+Query: willing
+The similarity of florestais is 0.5009.
+The similarity of broking is 0.4705.
+The similarity of sehl is 0.4661.
+The similarity of tpn is 0.4435.
+The similarity of ficr is 0.4398.
+
+Query: good
+The similarity of qtrs is 0.4555.
+The similarity of andf is 0.4469.
+The similarity of hal is 0.4430.
+The similarity of sincerely is 0.4419.
+The similarity of creditor is 0.4372.
+
+Query: very
+The similarity of stir is 0.4928.
+The similarity of sheriff is 0.4746.
+The similarity of 526 is 0.4718.
+The similarity of hawaii is 0.4604.
+The similarity of 266 is 0.4451.
+
+Query: patient
+The similarity of kakuei is 0.4842.
+The similarity of 470 is 0.4657.
+The similarity of sibley is 0.4616.
+The similarity of paemen is 0.4479.
+The similarity of eis is 0.4387.
+
+Query: concerned
+The similarity of gibson is 0.4782.
+The similarity of beg is 0.4461.
+The similarity of abal is 0.4341.
+The similarity of illicit is 0.4201.
+The similarity of princeville is 0.4190.
+
+Query: important
+The similarity of htwn is 0.4948.
+The similarity of alvite is 0.4741.
+The similarity of munsingwear is 0.4589.
+The similarity of serious is 0.4580.
+The similarity of cetane is 0.4527.
+
+Query: powerful
+The similarity of anemic is 0.5014.
+The similarity of aclv is 0.4687.
+The similarity of yacimientos is 0.4469.
+The similarity of fuel is 0.4432.
+The similarity of 5c is 0.4431.
+
+Query: quickly
+The similarity of then is 0.4888.
+The similarity of biopool is 0.4457.
+The similarity of jerusalem is 0.4418.
+The similarity of sejerstad is 0.4379.
+The similarity of behind is 0.4341.
+
+Query: generally
+The similarity of pcar is 0.4638.
+The similarity of egl is 0.4634.
+The similarity of 181 is 0.4549.
+The similarity of mars is 0.4510.
+The similarity of govenment is 0.4509.
+
+Query: gradually
+The similarity of bureau is 0.4660.
+The similarity of seapride is 0.4300.
+The similarity of steel is 0.4289.
+The similarity of trecker is 0.4277.
+The similarity of pigments is 0.4184.
+
+Query: happy
+The similarity of genossenschaftliche is 0.4669.
+The similarity of multinational is 0.4416.
+The similarity of unemotional is 0.4231.
+The similarity of sunday is 0.4123.
+The similarity of valid is 0.4073.
+
+Query: able
+The similarity of edelman is 0.4926.
+The similarity of requests is 0.4736.
+The similarity of southfield is 0.4505.
+The similarity of oxide is 0.4428.
+The similarity of fitb is 0.4393.
+
+Query: close
+The similarity of 205 is 0.5284.
+The similarity of oelmuehle is 0.4389.
+The similarity of infrequently is 0.4319.
+The similarity of usurp is 0.4265.
+The similarity of aboard is 0.4210.
+
+Query: near
+The similarity of future is 0.4985.
+The similarity of phase is 0.4825.
+The similarity of fip is 0.4772.
+The similarity of 193 is 0.4611.
+The similarity of 460 is 0.4510.
+
+Query: saturday
+The similarity of psl2 is 0.4671.
+The similarity of commonwealty is 0.4470.
+The similarity of hkld is 0.4288.
+The similarity of atim is 0.4273.
+The similarity of hrzn is 0.4236.
+
+Query: friend
+The similarity of fairfax is 0.4974.
+The similarity of worlds is 0.4824.
+The similarity of cigra is 0.4457.
+The similarity of 397 is 0.4452.
+The similarity of restitutions is 0.4415.
+
+Query: company
+The similarity of noticeable is 0.4736.
+The similarity of unexpected is 0.4596.
+The similarity of could is 0.4471.
+The similarity of meant is 0.4320.
+The similarity of comapny is 0.4210.
+
+Query: road
+The similarity of forget is 0.4851.
+The similarity of lawrenceville is 0.4601.
+The similarity of cross is 0.4400.
+The similarity of slumping is 0.4304.
+The similarity of gob is 0.4240.
+
+Query: plane
+The similarity of deferreds is 0.4420.
+The similarity of assetsof is 0.4247.
+The similarity of alice is 0.4233.
+The similarity of tie is 0.4208.
+The similarity of tact is 0.4075.
+
+Query: war
+The similarity of departure is 0.4755.
+The similarity of hylbert is 0.4733.
+The similarity of annoucement is 0.4717.
+The similarity of regan is 0.4690.
+The similarity of counterparty is 0.4496.
+
+Query: politics
+The similarity of 340 is 0.4915.
+The similarity of omb is 0.4775.
+The similarity of belstead is 0.4359.
+The similarity of divestment is 0.4344.
+The similarity of finns is 0.4329.
+
+Query: building
+The similarity of avoiding is 0.4584.
+The similarity of gail is 0.4387.
+The similarity of ceiling is 0.4311.
+The similarity of slackens is 0.4229.
+The similarity of stationing is 0.4218.
+
+Query: student
+The similarity of dpec is 0.4610.
+The similarity of enforcement is 0.4541.
+The similarity of elevating is 0.4480.
+The similarity of anchor is 0.4472.
+The similarity of hecht is 0.4328.
+
+Query: university
+The similarity of lip is 0.4679.
+The similarity of sandalwood is 0.4550.
+The similarity of sold is 0.4546.
+The similarity of bergung is 0.4481.
+The similarity of vaal is 0.4384.
+
+Query: realm
+
+Query: china
+The similarity of entreprises is 0.4979.
+The similarity of eqt is 0.4866.
+The similarity of abrogated is 0.4516.
+The similarity of accepted is 0.4478.
+The similarity of reluctant is 0.4453.
+
+Query: experience
+The similarity of hasty is 0.4802.
+The similarity of noteworthy is 0.4647.
+The similarity of mediterranean is 0.4464.
+The similarity of imprisoned is 0.4362.
+The similarity of republic is 0.4360.
+
+Query: police
+The similarity of smsi is 0.4749.
+The similarity of frawley is 0.4573.
+The similarity of plasminogen is 0.4505.
+The similarity of nutmeg is 0.4404.
+The similarity of commitments is 0.4384.
+
+Query: give
+The similarity of paraguay is 0.4575.
+The similarity of modx is 0.4400.
+The similarity of mindscape is 0.4355.
+The similarity of competitive is 0.4349.
+The similarity of forgiveness is 0.4331.
+
+Query: create
+The similarity of 5650 is 0.4620.
+The similarity of qchm is 0.4549.
+The similarity of valhall is 0.4535.
+The similarity of tw is 0.4456.
+The similarity of like is 0.4193.
+
+Query: tell
+The similarity of emphasise is 0.5094.
+The similarity of launched is 0.4593.
+The similarity of mothball is 0.4552.
+The similarity of contradicting is 0.4466.
+The similarity of pse is 0.4414.
+
+Query: become
+The similarity of 39 is 0.4604.
+The similarity of reclassification is 0.4553.
+The similarity of terrence is 0.4373.
+The similarity of retender is 0.4372.
+The similarity of keidanren is 0.4359.
+
+Query: lack
+The similarity of pdsva is 0.4883.
+The similarity of misconceived is 0.4600.
+The similarity of inundated is 0.4448.
+The similarity of forthe is 0.4420.
+The similarity of healthco is 0.4310.
+
+Query: win
+The similarity of 56 is 0.4904.
+The similarity of coercive is 0.4684.
+The similarity of nesp is 0.4556.
+The similarity of destin is 0.4542.
+The similarity of veterinarians is 0.4459.
+
+Query: help
+The similarity of kritchevsky is 0.5451.
+The similarity of british is 0.5109.
+The similarity of attendees is 0.5050.
+The similarity of briar is 0.4754.
+The similarity of bougainville is 0.4427.
+
+Query: gain
+The similarity of mor is 0.4770.
+The similarity of seaborne is 0.4546.
+The similarity of hardly is 0.4496.
+The similarity of rict is 0.4262.
+The similarity of exp is 0.4199.
+
+Query: get
+The similarity of preparers is 0.4768.
+The similarity of stockmarket is 0.4664.
+The similarity of roughly is 0.4595.
+The similarity of collision is 0.4380.
+The similarity of credence is 0.4302.
+
+Query: take
+The similarity of datx is 0.4581.
+The similarity of ro is 0.4544.
+The similarity of colza is 0.4369.
+The similarity of passes is 0.4356.
+The similarity of 515 is 0.4293.
+
+Query: use
+The similarity of phase is 0.4662.
+The similarity of telzerow is 0.4437.
+The similarity of emphasizing is 0.4231.
+The similarity of zeitung is 0.4211.
+The similarity of police is 0.4201.
+
+Query: set
+The similarity of epidemic is 0.5725.
+The similarity of 216 is 0.4724.
+The similarity of readmitted is 0.4577.
+The similarity of 983 is 0.4470.
+The similarity of unchanged is 0.4453.
+
+Query: find
+The similarity of massing is 0.4620.
+The similarity of sensitively is 0.4315.
+The similarity of contest is 0.4253.
+The similarity of atekf is 0.4251.
+The similarity of substantially is 0.4206.
+
+Query: increase
+The similarity of specialized is 0.5041.
+The similarity of 167 is 0.4740.
+The similarity of spaghetti is 0.4589.
+The similarity of flurry is 0.4528.
+The similarity of berry is 0.4406.
+
+Query: difficult
+The similarity of disguised is 0.4983.
+The similarity of irwn is 0.4593.
+The similarity of faltered is 0.4479.
+The similarity of neti is 0.4340.
+The similarity of bpd is 0.4233.
+
+Query: go
+The similarity of belb is 0.4984.
+The similarity of toxic is 0.4709.
+The similarity of lif is 0.4474.
+The similarity of pitmen is 0.4368.
+The similarity of policymakers is 0.4342.
+
+Query: man
+The similarity of mohave is 0.4736.
+The similarity of bedell is 0.4570.
+The similarity of bridgestone is 0.4498.
+The similarity of vgcb is 0.4491.
+The similarity of bakelite is 0.4321.
+
+Query: ten
+The similarity of hereby is 0.4376.
+The similarity of winding is 0.4274.
+The similarity of linkages is 0.4269.
+The similarity of discovery is 0.4176.
+The similarity of rica is 0.4140.
+
+Query: year
+The similarity of transshipped is 0.5002.
+The similarity of hinton is 0.4849.
+The similarity of nonwovens is 0.4632.
+The similarity of rally is 0.4420.
+The similarity of daly is 0.4392.
