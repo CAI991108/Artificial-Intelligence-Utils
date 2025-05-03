@@ -1,4 +1,4 @@
-# AI Projects Portfolio | Artitifical Intelligence Utils 📚
+# AI Projects Portfolio | Artificial Intelligence Utils 📚
 
 ![AI Wizard](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5wYno0Y3M5amNibnU4ZTFycjY0Nzd2MW1jd3JwODRsc2c0ZTBraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)  
 *"Turning coffee into neural networks since 2025" ☕➡️🤖*
